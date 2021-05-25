@@ -8,8 +8,8 @@
     android:paddingLeft="15dp"
     android:paddingRight="15dp"
     android:paddingTop="15dp"
-    android:orientation="vertical"
-    tools:context=".MainActivity">
+    android:orientation="horizontal"
+    tools:context="com.myapplicationdev.android.demofragment1.MainActivity">
 
     <FrameLayout
         android:id="@+id/frame1"
